@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="669b7c98-0398-43b7-b64e-c8dc0f19f82f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eJwkFSKLprR7rq0Dara3dkpPSg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/a1.py" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_stock_price_summary.py">
+    <configuration name="a1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_stock_price_summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/test_stock_price_summary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Pair review 1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Pair review 1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_num_buses.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_num_buses.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_stock_price_summary.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_stock_price_summary.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_swap_k.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_swap_k.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.a1" />
+      <item itemvalue="Python.test_stock_price_summary" />
+      <item itemvalue="Python tests.pytest in Pair review 1.py" />
+      <item itemvalue="Python tests.pytest in test_num_buses.py" />
+      <item itemvalue="Python tests.pytest in test_stock_price_summary.py" />
+      <item itemvalue="Python tests.pytest in test_swap_k.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_stock_price_summary.py" />
+        <item itemvalue="Python.test_stock_price_summary" />
+        <item itemvalue="Python tests.pytest in test_swap_k.py" />
+        <item itemvalue="Python tests.pytest in test_num_buses.py" />
+        <item itemvalue="Python tests.pytest in Pair review 1.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669b7c98-0398-43b7-b64e-c8dc0f19f82f" name="Default Changelist" comment="" />
+      <created>1594053144815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594053144815</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594054943215">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594054943215" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1594054941113">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594054941113" />
+    <state width="1899" height="158" key="GridCell.Tab.0.bottom" timestamp="1594126126952">
+      <screen x="-1920" y="239" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="158" key="GridCell.Tab.0.bottom/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1594126126952" />
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594056812025" />
+    <state width="1899" height="158" key="GridCell.Tab.0.center" timestamp="1594126126952">
+      <screen x="-1920" y="239" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="158" key="GridCell.Tab.0.center/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1594126126952" />
+    <state width="2539" height="401" key="GridCell.Tab.0.center/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594056812025" />
+    <state width="1899" height="158" key="GridCell.Tab.0.left" timestamp="1594126126952">
+      <screen x="-1920" y="239" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="158" key="GridCell.Tab.0.left/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1594126126952" />
+    <state width="2539" height="401" key="GridCell.Tab.0.left/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594056812025" />
+    <state width="1899" height="158" key="GridCell.Tab.0.right" timestamp="1594126126952">
+      <screen x="-1920" y="239" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="158" key="GridCell.Tab.0.right/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1594126126952" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594056812025" />
+    <state x="-1264" y="583" key="com.intellij.ide.util.TipDialog" timestamp="1594125502576">
+      <screen x="-1920" y="239" width="1920" height="1040" />
+    </state>
+    <state x="-1264" y="583" key="com.intellij.ide.util.TipDialog/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1594125502576" />
+  </component>
+</project>

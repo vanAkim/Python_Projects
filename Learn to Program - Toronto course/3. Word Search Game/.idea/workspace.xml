@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="099862f4-52cb-4ac4-a5a5-b4f359281f93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dv4R8pRhgidyzVzHD1pVTUQKOX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/a3.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="a3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="3. Word Search Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="099862f4-52cb-4ac4-a5a5-b4f359281f93" name="Default Changelist" comment="" />
+      <created>1593292221663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593292221663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593292506506">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593292506506" />
+    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1593292505634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="456" key="FileChooserDialogImpl/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593292505634" />
+    <state width="2539" height="265" key="GridCell.Tab.0.bottom" timestamp="1593296436097">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="265" key="GridCell.Tab.0.bottom/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593296436097" />
+    <state width="2539" height="265" key="GridCell.Tab.0.center" timestamp="1593296436097">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="265" key="GridCell.Tab.0.center/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593296436097" />
+    <state width="2539" height="265" key="GridCell.Tab.0.left" timestamp="1593296436097">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="265" key="GridCell.Tab.0.left/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593296436097" />
+    <state width="2539" height="265" key="GridCell.Tab.0.right" timestamp="1593296436097">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="265" key="GridCell.Tab.0.right/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593296436097" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1596556883619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1596556883619" />
+  </component>
+</project>

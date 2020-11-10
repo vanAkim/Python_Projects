@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51695943-48af-4e82-be21-509f102380bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dP2YvpmwWqoZ6j6n1QBAnfEtb8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/a1.py" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager" selected="Python.a1">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="1. Time zone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1. Time zone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in a1" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="1. Time zone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a1.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.a1" />
+        <item itemvalue="Python tests.Doctests in a1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51695943-48af-4e82-be21-509f102380bc" name="Default Changelist" comment="" />
+      <created>1592312458400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592312458400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="356" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592312739319">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="356" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592312739319" />
+    <state x="1060" y="465" key="FileChooserDialogImpl" timestamp="1592312524075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="465" key="FileChooserDialogImpl/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592312524075" />
+    <state width="2539" height="225" key="GridCell.Tab.0.bottom" timestamp="1592316884864">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1592315309480" />
+    <state width="2539" height="225" key="GridCell.Tab.0.bottom/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592316884864" />
+    <state width="2539" height="225" key="GridCell.Tab.0.center" timestamp="1592316884864">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.center/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1592315309480" />
+    <state width="2539" height="225" key="GridCell.Tab.0.center/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592316884864" />
+    <state width="2539" height="225" key="GridCell.Tab.0.left" timestamp="1592316884864">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.left/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1592315309479" />
+    <state width="2539" height="225" key="GridCell.Tab.0.left/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592316884864" />
+    <state width="2539" height="225" key="GridCell.Tab.0.right" timestamp="1592316884864">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.right/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1592315309480" />
+    <state width="2539" height="225" key="GridCell.Tab.0.right/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592316884864" />
+    <state x="781" y="343" key="SettingsEditor" timestamp="1592312682246">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="343" key="SettingsEditor/-1920.239.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592312682246" />
+    <state x="-1238" y="672" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592312956090">
+      <screen x="-1920" y="239" width="1920" height="1040" />
+    </state>
+    <state x="-1238" y="672" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1920.239.1920.1040/0.0.2560.1400@-1920.239.1920.1040" timestamp="1592312956090" />
+  </component>
+</project>
