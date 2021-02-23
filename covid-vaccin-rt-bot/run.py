@@ -2,6 +2,7 @@ import pandas as pd
 import requests
 import math
 import numpy as np
+import io
 
 
 #=======================================================================================================================
@@ -40,7 +41,7 @@ def join_trends(trends_sqr, empty_motif, filled_motif):
         shaped like columns. Plus a full upper line of empty_motif
         and full lower line of filled_motif.
 
-        >>>join_trends(['⬛\n⬛\n⬛\n⬛\n', '⬛\n💟\n💟\n💟\n'],"⬛","💟")
+        >>>join_trends(['⬛\\n⬛\\n⬛\\n⬛\\n', '⬛\\n💟\\n💟\\n💟\\n'],"⬛","💟")
         '⬛⬛
         ⬛⬛
         ⬛💟
